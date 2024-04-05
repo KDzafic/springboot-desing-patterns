@@ -1,0 +1,1 @@
+solid operations for desingn pattern vidi

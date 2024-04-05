@@ -1,0 +1,7 @@
+rootProject.name = 'springboot-design-patterns'
+include 'singleton'
+include 'factory'
+include 'abstract_factory'
+include 'builder'
+include 'prototype'
+

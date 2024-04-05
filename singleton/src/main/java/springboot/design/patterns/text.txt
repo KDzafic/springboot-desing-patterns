@@ -1,0 +1,3 @@
+serialization is one of the ways singleton pattern can break
+serialization will convert your object into byte form, when converting object to file?
+other way to break is using reflection.
